@@ -7,10 +7,6 @@ This project visualizes data on the largest companies in the world by the number
 - [Introduction](#introduction)
 - [Dataset](#dataset)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Visualizations](#visualizations)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 

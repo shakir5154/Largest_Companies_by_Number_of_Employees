@@ -35,5 +35,4 @@ You can install these libraries using pip:
 
 ```bash
 pip install pandas matplotlib seaborn squarify plotly cufflinks
-git clone https://github.com/yourusername/largest-companies-by-employees.git
-cd largest-companies-by-employees
+

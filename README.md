@@ -18,7 +18,7 @@ Understanding the scale of employment in the world's largest companies can provi
 
 ## Dataset
 
-The dataset used in this project can be found [here](https://www.kaggle.com/datasets/largest-companies-by-number-of-employees). It includes information about company names, employee counts, and countries.
+The dataset used in this project is provided for further exploration. It includes information about company names, employee counts, and countries.
 
 ## Installation
 
